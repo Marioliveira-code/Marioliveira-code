@@ -6,7 +6,6 @@ bridging the gap between **technology, business, and human insight**.
 
 Currently, I’m developing projects using **Python**, **R**, and **SQL**, exploring predictive analytics, visualization, and automation.  
 I’m seeking opportunities to collaborate on innovative projects that leverage data to drive real impact.  
-
 ---
 
 ## 👩‍💻 About Me
