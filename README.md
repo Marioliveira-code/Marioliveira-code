@@ -1,27 +1,97 @@
-## 🚀 Professional Overview
+<h1>🌸 Hi there, I'm Mariana! ✨</h1>
+<h2>Data Science Student & Problem Solver</h2>
 
-I’m a **Data Science student** with a strong passion for transforming data into strategic decisions.  
-My focus is on building intelligent, data-driven solutions that combine analytical precision with creativity —  
-bridging the gap between **technology, business, and human insight**.  
+<p>
+💻 Passionate about turning <strong>data into meaningful strategies</strong><br>
+🧩 Interested in automation, healthcare systems, behavioral data & intelligent systems<br>
+☕ Powered by coffee, curiosity, and random datasets<br>
+⚡ I love solving problems, building creative solutions, and telling stories with data<br>
+</p>
+<div align="left"> <a href="https://github.com/MariOliveira-code?tab=repositories&sort=stargazers"> <img alt="Total Stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/MariOliveira-code?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/> </a> <a href="https://github.com/MariOliveira-code?tab=followers"> <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MariOliveira-code?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/> </a> </div>
+🤖 Languages & Technologies
+Tools I work with (and love):
 
-Currently, I’m developing projects using **Python**, **R**, and **SQL**, exploring predictive analytics, visualization, and automation.  
-I’m seeking opportunities to collaborate on innovative projects that leverage data to drive real impact.  
----
+![Portugol](https://img.shields.io/badge/-Portugol-blue?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 👩‍💻 About Me
+<!-- FUN FACT BOX -->
+<div style="
+  background:#1e1e2e;
+  color:#fff;
+  padding:16px;
+  border-radius:12px;
+  border:1px solid #313244;
+  margin-bottom:18px;
+">
+  <h3>💡 Fun Fact</h3>
+  <p>
+    I started my journey writing stories… <br>
+    and then realized <strong>data tells stories too</strong> —
+    you just need to learn how to read them.
+  </p>
+</div>
 
-Hey there! I’m **Mariana Diniz de Oliveira**, a creative mind transitioning into the world of **Data Science** — passionate about technology, problem-solving, and turning raw information into meaningful insights.  
+<!-- MAIN INTERESTS BOX -->
+<div style="
+  background:#1e1e2e;
+  color:#fff;
+  padding:16px;
+  border-radius:12px;
+  border:1px solid #313244;
+">
+  <h3>📊 Main Interests — What makes me excited to learn:</h3>
+  <p>
+    🤖 Machine Learning & Predictive Analytics <br>
+    📈 Data Visualization <br>
+    🧠 Behavioral Data & Pattern Recognition <br>
+    🏥 Data Science applied to Healthcare <br>
+    ⚙️ Process Automation <br>
+    💼 Business Insights & Decision-Making
+  </p>
+</div>
 
-I’m currently focused on expanding my knowledge in **machine learning**, **data analysis**, and **statistical modeling**, while applying storytelling techniques to communicate insights clearly and effectively.  
-My mission is to combine analytical thinking with human understanding — especially in the intersection between **technology, healthcare, and social impact**.  
+📊 GitHub Stats
+<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MariOliveira-code&show_icons=true&theme=dracula&include_all_commits=true&locale=en" />
 
-💡 *Fun fact:* I started in creative areas like design and writing, and discovered that data tells stories too — only in numbers, visuals, and patterns.  
+<img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariOliveira-code&theme=dracula&layout=compact&custom_title=Top%20Languages&langs_count=9" />
+<br><br><br><br><br><br><br><br><br>
 
-📊 **Main interests:**  
-- Machine Learning & Predictive Analytics  
-- Data Visualization & Storytelling  
-- Big Data & Intelligent Systems  
-- Process Automation & Business Insights  
+</p>
 
-🌍 Always learning, coding, and discovering new ways to make data meaningful.  
-Because the right data, with the right story, can change everything.
+<h2>📫 Where to find me</h2>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mariana-oliveira-a534a4318/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/MariOliveira-code" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub"
+    />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:mari.olivermol@gmail.com" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+    />
+  </a>
+
+</div>
+
+
+</div>
+
+<h1>✨ “Data tells stories — you just need to know how to listen.”</h1>
