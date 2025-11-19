@@ -7,7 +7,10 @@
 ☕ Powered by coffee, curiosity, and random datasets<br>
 ⚡ I love solving problems, building creative solutions, and telling stories with data<br>
 </p>
-<div align="left"> <a href="https://github.com/MariOliveira-code?tab=repositories&sort=stargazers"> <img alt="Total Stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/MariOliveira-code?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/> </a> <a href="https://github.com/MariOliveira-code?tab=followers"> <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MariOliveira-code?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/> </a> </div>
+
+<p><div align="left"> <a href="https://github.com/MariOliveira-code?tab=repositories&sort=stargazers"> <img alt="Total Stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/MariOliveira-code?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/> </a> <a href="https://github.com/MariOliveira-code?tab=followers"> <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MariOliveira-code?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/> </a> </div>
+</p>
+
 🤖 Languages & Technologies
 Tools I work with (and love):
 
@@ -53,9 +56,7 @@ Tools I work with (and love):
   </p>
 </div>
 
-📊 GitHub Stats
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MariOliveira-code&show_icons=true&theme=dracula&include_all_commits=true&locale=en" />
-
+<p> <h1>📊 GitHub Stats</h1>
 <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariOliveira-code&theme=dracula&layout=compact&custom_title=Top%20Languages&langs_count=9" />
 <br><br><br><br><br><br><br><br><br>
 
