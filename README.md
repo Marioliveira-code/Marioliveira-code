@@ -1,98 +1,114 @@
-<h1>🌸 Hi there, I'm Mariana! ✨</h1>
-<h2>Data Science Student & Problem Solver</h2>
+# Hey, I'm Mariana Oliveira! ✨
 
-<p>
-💻 Passionate about turning <strong>data into meaningful strategies</strong><br>
-🧩 Interested in automation, healthcare systems, behavioral data & intelligent systems<br>
-☕ Powered by coffee, curiosity, and random datasets<br>
-⚡ I love solving problems, building creative solutions, and telling stories with data<br>
-</p>
+### UI/UX Designer · Visual Designer · Creative Problem Solver
 
-<p><div align="left"> <a href="https://github.com/MariOliveira-code?tab=repositories&sort=stargazers"> <img alt="Total Stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/MariOliveira-code?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/> </a> <a href="https://github.com/MariOliveira-code?tab=followers"> <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MariOliveira-code?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/> </a> </div>
-</p>
+I'm a Brazilian designer passionate about turning ideas into **clear, beautiful and meaningful digital experiences**.
 
-🤖 Languages & Technologies
-Tools I work with (and love):
+I combine **design, technology and storytelling** to create interfaces, visual identities and digital experiences that are not only visually appealing, but also intentional and easy to use.
 
-![Portugol](https://img.shields.io/badge/-Portugol-blue?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+* 🎨 UI/UX Design
+* 🖥️ Digital & Visual Design
+* 🧠 User-centered thinking
+* ✨ Branding & Visual Storytelling
+* 💻 Design + Technology
+* 📚 Always learning something new
 
-<!-- FUN FACT BOX -->
-<div style="
-  background:#1e1e2e;
-  color:#fff;
-  padding:16px;
-  border-radius:12px;
-  border:1px solid #313244;
-  margin-bottom:18px;
-">
-  <h3>💡 Fun Fact</h3>
-  <p>
-    I started my journey writing stories… <br>
-    and then realized <strong>data tells stories too</strong> —
-    you just need to learn how to read them.
-  </p>
-</div>
+🌎 Based in Brazil · Building toward an international career
 
-<!-- MAIN INTERESTS BOX -->
-<div style="
-  background:#1e1e2e;
-  color:#fff;
-  padding:16px;
-  border-radius:12px;
-  border:1px solid #313244;
-">
-  <h3>📊 Main Interests — What makes me excited to learn:</h3>
-  <p>
-    🤖 Machine Learning & Predictive Analytics <br>
-    📈 Data Visualization <br>
-    🧠 Behavioral Data & Pattern Recognition <br>
-    🏥 Data Science applied to Healthcare <br>
-    ⚙️ Process Automation <br>
-    💼 Business Insights & Decision-Making
-  </p>
-</div>
+[LinkedIn](https://www.linkedin.com/in/mariana-oliveira-a93492391/?locale=en-US)· [Behance](https://www.behance.net/marioliveirams) · [Portfolio](#)
 
-<p> <h1>📊 GitHub Stats</h1>
-<img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariOliveira-code&theme=dracula&layout=compact&custom_title=Top%20Languages&langs_count=9" />
-<br><br><br><br><br><br><br><br><br>
+---
 
-</p>
+## ✦ What I'm working on
 
-<h2>📫 Where to find me</h2>
+* 🎨 UI/UX Design projects
+* 🖥️ Digital interfaces and design systems
+* ✨ Visual identity and creative direction
+* 📱 Responsive web experiences
+* 📚 Personal and experimental projects
+* 🌎 Building a portfolio for the international market
+* 🧩 Exploring the intersection between design, technology and storytelling
 
-<div style="display: flex; gap: 10px; align-items: center;">
+---
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mariana-oliveira-a534a4318/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
+## ✦ My approach
 
-  <!-- GitHub -->
-  <a href="https://github.com/MariOliveira-code" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-      alt="GitHub"
-    />
-  </a>
+I believe good design is more than making something beautiful.
 
-  <!-- Email -->
-  <a href="mailto:mari.olivermol@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email"
-    />
-  </a>
+It's about understanding a problem, finding the right questions and creating an experience that makes sense for the person using it.
 
-</div>
+My process usually brings together:
 
+**Research → Structure → Wireframes → Visual Design → Prototyping → Testing → Refinement**
 
-</div>
+With a little bit of curiosity and a lot of coffee in between. ☕
 
-<h1>✨ “Data tells stories — you just need to know how to listen.”</h1>
+---
+
+## ✦ My stack
+
+### 🎨 Design
+
+[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma\&logoColor=white)](#)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)](#)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)](#)
+[![Adobe InDesign](https://img.shields.io/badge/InDesign-000000?style=for-the-badge\&logo=adobeindesign\&logoColor=white)](#)
+[![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-000000?style=for-the-badge\&logo=adobecreativecloud\&logoColor=white)](#)
+[![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge\&logo=behance\&logoColor=white)](#)
+
+---
+
+## ✦ Selected projects
+
+### 🎨 UI/UX
+
+> Digital products, interfaces and user experiences focused on clarity, usability and visual storytelling.
+
+**Coming soon...**
+
+### 🖥️ Visual Design
+
+> Branding, editorial design, creative concepts and visual experiments.
+
+**Coming soon...**
+
+### 💻 Creative Technology
+
+> Experiments combining design, code and technology.
+
+**Coming soon...**
+
+---
+
+## ✦ A little more about me
+
+* 📚 I love history, art, literature and storytelling.
+* 🎨 I'm fascinated by the relationship between aesthetics and functionality.
+* 🎵 I play around with music and creative projects.
+* 🧠 I enjoy learning across different fields and connecting ideas that don't seem connected at first.
+* ✈️ I'm building my career with an international future in mind.
+* ☕ Coffee is basically part of my design process.
+
+---
+
+## ✦ Currently learning
+
+```text
+UI/UX Design
+Design Systems
+Figma
+UX Research
+Visual Design
+Front-end fundamentals
+Creative Technology
+```
+
+---
+
+## ✦ Let's create something meaningful.
+
+I'm always interested in connecting with designers, developers, creatives and curious people.
+
+**Let's build something beautiful — and make sure it works, too. ✨**
+
+[LinkedIn](https://www.linkedin.com/in/mariana-oliveira-a93492391/?locale=en-US)· [Behance](https://www.behance.net/marioliveirams) · [Portfolio](#)
